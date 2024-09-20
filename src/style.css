@@ -117,7 +117,7 @@ img:hover {
     font-size: 14px;
     color: #555; 
 }
-/* Стили для вкладки Videos */
+
 .video-item {
     margin-bottom: 30px;
     text-align: center;
@@ -132,8 +132,8 @@ img:hover {
 .video-item iframe {
     max-width: 100%;
     height: auto;
-    border-radius: 8px; /* Закругленные углы для видео */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Тень для видео */
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
 }
 
 .burger {
